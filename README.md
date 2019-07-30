@@ -6,12 +6,12 @@
       </title>
     <style>
       body{
-      background-color:red;}
+      background-color:pink;}
       </style>
     </head>
   <body>
-    <h1>This is a heading</h1>
-<p>This is a paragraph.</p>
+    <h1>This is a heading</h1><br>
+<p>This is a paragraph.</p><br>
     
    </body>
   </html>
