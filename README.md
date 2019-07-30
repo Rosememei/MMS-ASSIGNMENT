@@ -5,7 +5,7 @@
       </tite>
     <style>
       body{
-      bacckground-color:red}
+      background-color:red;}
       </style>
     </head>
   <body>
