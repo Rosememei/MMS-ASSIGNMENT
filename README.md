@@ -13,8 +13,7 @@
     <h1>This is a heading</h1><br>
     <br>
 	<div style="background-color:none">
-	<iframe width="350" height="350" src="https://www.youtube.com/embed/watch?v=IdKS3eIICEA">
-</iframe>
+	<iframe width="560" height="315" src="https://www.youtube.com/embed/IdKS3eIICEA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 		
 		</div>
     
